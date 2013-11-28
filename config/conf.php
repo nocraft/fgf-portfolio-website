@@ -1,6 +1,5 @@
 <?php
 class Conf{
-	
 	static $debug = 1; 
 
 	static $databases = array(
@@ -15,6 +14,9 @@ class Conf{
 
 
 }
+// Déclaration des SALT
+define('PREFIX_SALT', 'DYhG93b0qyJfIxfs2guVoUubWwvniR2G0FgaC9mi');
+define('SUFFIX_SALT', 'im9CagF0G2RinvwWbuUoVug2sfxIfJyq 0b39GhYD');
 
 Router::prefix('cockpit','admin');
 
