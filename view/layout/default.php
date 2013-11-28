@@ -23,9 +23,8 @@
 		<script type="text/javascript" src="<?php echo Router::url('WEBROOT/js/main.js'); ?>"></script>
     </head> 
     <body><?php $namecache = ($this->request->controller.'_'.$this->request->action.'_'.$this->request->page.str_replace('/', '_', $this->request->url)); ?>
-		<?php $Cache = new Cache(WEBROOT.DS.'cache',1440);
-			if(!$Cache->start('body_top')){?>
-		<div id="root">    
+
+		<div id="root"> 
 			<!-- Affichage du header --> 
 			<div class="toptitre">
 				<div class="wrap">
@@ -60,9 +59,7 @@
     			</div>
       		</header>
 			
-			<!-- Affichage du subhead --> 
-				<?php } $Cache->end();?>
-
+			<!-- Affichage du subhead -->
 			<section id="Parallax" class="subhead">
 					<span class="bullheader" >clic ici</span>
 					<img src="<?php echo Router::webroot('css/img/header/header1.jpg'); ?>">
@@ -117,9 +114,6 @@
 			</section>
 			
 			<!-- Affichage du file d'ariane --> 
-			<?php
-				$Cache2 = new Cache(WEBROOT.DS.'cache', 60); 
-				if(!$Cache2->start($namecache)){ ?>
 			<section class="breadcrumb">
 				<div class="wrap">
 					<?php $breadcrumb = $this->request('Posts', 'getBreadcrumb'); ?>
@@ -141,11 +135,7 @@
 			
 			<!-- Affichage le content --> 
 			<div class="wrap2">
-			<?php echo $content_for_layout;
-				} $Cache2->end();?>
-				<?php $Cache3 = new Cache(WEBROOT.DS.'cache',1440); ?>
-				<?php  if(!$Cache3->start('body_bottom')){?>
-
+			<?php echo $content_for_layout;?>
 			</div>
 			<!-- Affichage le footer --> 
 			<div class="wrap">
@@ -156,6 +146,5 @@
 			<!-- reset --> 
 			<div class="cb"></div>
 		</div>
-				<?php } $Cache3->end();?>
     </body> 
 </html>
