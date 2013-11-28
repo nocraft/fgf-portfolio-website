@@ -151,7 +151,7 @@ INSERT INTO `posts` (`id`, `name`, `content`, `created`, `online`, `type`, `slug
 CREATE TABLE IF NOT EXISTS `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `login` varchar(255) DEFAULT NULL,
-  `password` varchar(255) DEFAULT NULL,
+  `password` varchar(40) DEFAULT NULL,
   `role` varchar(255) NOT NULL DEFAULT 'user',
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
