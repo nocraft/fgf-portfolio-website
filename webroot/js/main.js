@@ -319,17 +319,17 @@ $(function()
 	/////////////////////////////////////////////
 	// change le theme
 	//\______________________________________________________________	
-	if($.cookie("css")) {
-		$("link").attr("href",$.cookie("css"));
-	}
+	// if($.cookie("css")) {
+	// 	$("link").attr("href",$.cookie("css"));
+	// }
 		
-	$("#nav li a").click(function() { 
-		var themename = $(this).attr('rel');
-		$("link").attr("href",themename);
-		$.cookie("css",$(this).attr('rel'), {expires: 30, path: '/'});
-		$('body').hide().fadeIn(1000);
-		return false;
-	});
+	// $("#nav li a").click(function() { 
+	// 	var themename = $(this).attr('rel');
+	// 	$("link").attr("href",themename);
+	// 	$.cookie("css",$(this).attr('rel'), {expires: 30, path: '/'});
+	// 	$('body').hide().fadeIn(1000);
+	// 	return false;
+	// });
 	
 	/////////////////////////////////////////////
 	// Archive voir plus
