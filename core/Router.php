@@ -116,4 +116,44 @@ class Router{
 		return BASE_URL.'/'.$url; 
 	}
 
+
+	/**
+	 *  This function will generate a full link
+	 *	@param string $url the relative path (to webroot) we want to point to
+	 *	@return string the full path to the linked file including protocol and servername
+	 *
+	 *
+	 *  NOTE: This is a test function, please do not deploy on production environment as this
+	 *  was not fully tested.
+	 *  This function has the purpose to debug the link generation from this router
+	 *
+	 */
+	public static function l($url) {
+		/**
+		 * Get the used proto(col) from the server and extract proto
+		 * The server returns HTTP/1.x ot HTTPS/1.x
+		 * Which we then split at the '/'
+		 * Then we lowercase the proto and add '://' to form the protocol used.
+		 */
+		$proto = preg_split("/\//", $_SERVER["SERVER_PROTOCOL"], NULL, PREG_SPLIT_NO_EMPTY);
+		$protocol = strtolower($proto[0]).'://';
+		/**
+		 * This is our server name (eg. localhost or mydomain.ext)
+		 */
+		$server = $_SERVER["SERVER_NAME"];
+		/**
+		 * Now we want the basepath where index.php is lying
+		 *
+		 * NOTE: This is really a poor hack to get into the previous dir of the index.php
+		 * file that is residing in the webroot directory.
+		 */
+		$basepath = trim(dirname(dirname($_SERVER["PHP_SELF"])),"/");
+		/**
+		 * Now we can join everyting together to form the full url
+		 */
+		$l = $protocol.$server.'/'.$basepath.'/'.$url;
+
+		return $l;
+	}
+
 }

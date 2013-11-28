@@ -14,13 +14,13 @@
         
 		<title><?php echo isset($title_for_layout)?$title_for_layout:'Mon site'; ?></title>
 		<link rel="icon" type="image/x-icon" href="/favicon.ico">
-		<link href="<?php echo Router::url('WEBROOT/css/fgf_tiredeyes.css'); ?>" rel="stylesheet">
-		<link href="<?php echo Router::url('WEBROOT/css/bootstrap.css'); ?>" rel="stylesheet">
-		<link href="<?php echo Router::url('WEBROOT/css/bootstrap-responsive.css'); ?>" rel="stylesheet">
-		<script type="text/javascript" src="<?php echo Router::url('WEBROOT/js/jquery-1.10.2.min.js'); ?>"></script>
-		<script type="text/javascript" src="<?php echo Router::url('WEBROOT/js/jquery.cookie.js'); ?>"></script>
-		<script type="text/javascript" src="<?php echo Router::url('WEBROOT/js/masonry.pkgd.min.js'); ?>"></script>
-		<script type="text/javascript" src="<?php echo Router::url('WEBROOT/js/main.js'); ?>"></script>
+		<link href="<?php echo Router::l('css/fgf_tiredeyes.css'); ?>" rel="stylesheet">
+		<link href="<?php echo Router::l('css/bootstrap.css'); ?>" rel="stylesheet">
+		<link href="<?php echo Router::l('css/bootstrap-responsive.css'); ?>" rel="stylesheet">
+		<script type="text/javascript" src="<?php echo Router::l('js/jquery-1.10.2.min.js'); ?>"></script>
+		<script type="text/javascript" src="<?php echo Router::l('js/jquery.cookie.js'); ?>"></script>
+		<script type="text/javascript" src="<?php echo Router::l('js/masonry.pkgd.min.js'); ?>"></script>
+		<script type="text/javascript" src="<?php echo Router::l('js/main.js'); ?>"></script>
     </head> 
     <body><?php $namecache = ($this->request->controller.'_'.$this->request->action.'_'.$this->request->page.str_replace('/', '_', $this->request->url)); ?>
 		<?php $Cache = new Cache(WEBROOT.DS.'cache',1440);
