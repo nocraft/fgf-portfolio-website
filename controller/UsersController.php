@@ -7,7 +7,7 @@ class UsersController extends Controller{
 	function login(){
 		if($this->request->data){
 			$data = $this->request->data;
-			$data->password = sha1($data->password); 
+			$data->password = sha1(PREFIX_SALT.$data->password.SUFFIX_SALT); 
 			$this->loadModel('User'); 
 			$user = $this->User->findFirst(array(
 				'conditions' => array('login' => $data->login,'password' => $data->password
