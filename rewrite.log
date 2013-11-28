@@ -1,0 +1,1080 @@
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b4a080/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b4a080/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b4a080/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b4a080/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b560d0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b46060/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b48070/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b43e50/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b43e50/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:14:21 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b3fe30/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:14:24 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/initial] (2) init rewrite engine with requested uri /rewrite.log
+62.72.116.106 - - [27/Nov/2013:10:14:24 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b540c0/initial] (1) pass through /rewrite.log
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b52b50/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b52b50/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5cda0/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5cda0/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5cda0/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5cda0/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b68df0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b66de0/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b58d80/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:16:27 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b5ad90/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:16:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b56b70/initial] (2) init rewrite engine with requested uri /rewrite.log
+62.72.116.106 - - [27/Nov/2013:10:16:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b56b70/initial] (1) pass through /rewrite.log
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b805b0/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b805b0/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65e10/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65e10/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65e10/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65e10/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:19:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:19:31 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/initial] (2) init rewrite engine with requested uri /rewrite.log
+62.72.116.106 - - [27/Nov/2013:10:19:31 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b79e90/initial] (1) pass through /rewrite.log
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7bea0/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7bea0/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6de40/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b77e80/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b805b0/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b805b0/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b6be30/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65750/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65750/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65750/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:19:35 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b65750/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b78a90/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b78a90/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b78a90/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b78a90/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:29 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b931c0/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8eb20/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b90b30/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8ab00/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8cb10/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80ac0/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:22:30 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7eab0/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:27:39 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/initial] (2) init rewrite engine with requested uri /
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/initial] (1) pass through /
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/subreq] (2) init rewrite engine with requested uri /index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/subreq] (1) pass through /index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/subreq] (2) init rewrite engine with requested uri /index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/subreq] (1) pass through /index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /HEADER.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /core/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /core/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /core/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /core/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /core/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /core/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /controller/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /controller/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /controller/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /controller/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /controller/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /controller/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /view/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /view/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /view/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /view/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /view/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /view/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /config/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /config/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /config/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /config/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /config/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /config/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /model/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /model/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /model/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /model/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (2) init rewrite engine with requested uri /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/subreq] (1) pass through /model/index.xhtml
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /model/index.htm
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (2) init rewrite engine with requested uri /README.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8e6a0/subreq] (1) pass through /README.html
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /icons/blank.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /icons/bomb.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /icons/unknown.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:27:40 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /icons/folder.gif
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/initial] (2) init rewrite engine with requested uri /webroot/
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b82650/initial] (1) pass through /webroot/
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b80640/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b8c690/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:27:42 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e630/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c32a80/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c32a80/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ca50/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ca50/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c32a80/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:33 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c32a80/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/initial] (2) init rewrite engine with requested uri /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/initial] (1) pass through /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c32a80/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c32a80/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:37 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:46 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/initial] (2) init rewrite engine with requested uri /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7a3e0/initial] (1) pass through /webroot/
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/subreq] (2) init rewrite engine with requested uri /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/subreq] (1) pass through /webroot/index.html
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (2) init rewrite engine with requested uri /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c032b0/subreq] (1) pass through /webroot/index.cgi
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/subreq] (2) init rewrite engine with requested uri /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80c2ea60/subreq] (1) pass through /webroot/index.pl
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/subreq] (2) init rewrite engine with requested uri /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:34:50 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/subreq] (1) pass through /webroot/index.php
+62.72.116.106 - - [27/Nov/2013:10:35:54 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (2) init rewrite engine with requested uri /blog/article-demo-1
+62.72.116.106 - - [27/Nov/2013:10:35:54 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b783d0/initial] (1) pass through /blog/article-demo-1
+62.72.116.106 - - [27/Nov/2013:10:36:02 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (2) init rewrite engine with requested uri /webroot/blog/article-demo-1
+62.72.116.106 - - [27/Nov/2013:10:36:02 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7c3f0/initial] (1) pass through /webroot/blog/article-demo-1
+62.72.116.106 - - [27/Nov/2013:10:36:05 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e400/initial] (2) init rewrite engine with requested uri /blog/article-demo-1
+62.72.116.106 - - [27/Nov/2013:10:36:05 +0100] [francisco.tpnetwork.org/sid#7fee806de2c8][rid#7fee80b7e400/initial] (1) pass through /blog/article-demo-1
