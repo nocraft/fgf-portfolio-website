@@ -1,2 +1,10 @@
+# These settings enable access to the directory when encountering e403
+# patch by patojiku (for this to work on the mac apache 2.2.16).
+# These settings are set in the vhost configuration file of the server.
+# MacOS apache does not provide such a config file for the user_dir mod.
+Options -Indexes
+Options +FollowSymLinks
+
 RewriteEngine On
+RewriteBase /~patojiku/fgf/
 RewriteRule (.*) webroot/$1 [L]
