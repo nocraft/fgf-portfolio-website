@@ -320,7 +320,7 @@ $(function()
 	// change le theme
 	//\______________________________________________________________	
 	if($.cookie("css")) {
-		$("link").attr("href",$.cookie("css"));
+		$("link.usertheme").attr("href",$.cookie("css"));
 	}
 		
 	$("#nav li a").click(function() { 

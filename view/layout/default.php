@@ -14,7 +14,7 @@
         
 		<title><?php echo isset($title_for_layout)?$title_for_layout:'Mon site'; ?></title>
 		<link rel="icon" type="image/x-icon" href="/favicon.ico">
-		<link href="<?php echo Router::url('WEBROOT/css/fgf_tiredeyes.css'); ?>" rel="stylesheet">
+		<link class="usertheme" href="<?php echo Router::url('WEBROOT/css/fgf_tiredeyes.css'); ?>" rel="stylesheet">
 		<link href="<?php echo Router::url('WEBROOT/css/bootstrap.css'); ?>" rel="stylesheet">
 		<link href="<?php echo Router::url('WEBROOT/css/bootstrap-responsive.css'); ?>" rel="stylesheet">
 		<script type="text/javascript" src="<?php echo Router::url('WEBROOT/js/jquery-1.10.2.min.js'); ?>"></script>
